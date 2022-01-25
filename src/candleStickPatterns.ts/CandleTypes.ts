@@ -1,0 +1,8 @@
+export enum CandleTypes {
+  NONE = 'NONE',
+  DOJI = 'DOJI',
+  HAMMER = 'HAMMER',
+  SHOOTING_STAR = 'SHOOTING_STAR',
+  MARU_BOZU_GREEN = 'MARU_BOZU_GREEN',
+  MARU_BOZU_RED = 'MARU_BOZU_RED',
+}
