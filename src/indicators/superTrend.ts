@@ -1,4 +1,4 @@
-import { simpleMovingAvg } from '..';
+import { simpleMovingAvg } from '../utils/simpleMovingAvg';
 import {
   addPaddingMultiple,
   arrayDiffVector,
